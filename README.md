@@ -1,7 +1,11 @@
 ### Hi there 👋
-🖥️ I use technology to monitor biodiversity 🐌.
+🖥️ I use technology to monitor biodiversity 🐌
 
-🎧 I study bioacoustics and orthoptera 🦗.
+🎧 I study bioacoustics and orthoptera 🦗
+
+🌐 [ebaker.me.uk](https://ebaker.me.uk)
+
+📫 edwbaker@gmail.com
 
 <!--
 **edwbaker/edwbaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
