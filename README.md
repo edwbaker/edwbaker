@@ -1,9 +1,9 @@
 ### Hi there 👋
 🖥️ I use technology to monitor biodiversity 🐌
 
-🎧 I study bioacoustics and orthoptera 🦗
+🎧 I study orthoptera 🦗and bioacoustics: [WildlifeSystems](https://wildlife.systems) > [BioAcoustica](https://bio.acousti.ca) > [audioBlast!](https://audioblast.org)
 
-🌐 [ebaker.me.uk](https://ebaker.me.uk)
+🌐 [My web links](https://linktr.ee/edwbaker)
 
 📫 edwbaker@gmail.com
 
